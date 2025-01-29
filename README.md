@@ -45,6 +45,9 @@ git clone https://github.com/son-content-mastery/google-search-console-api-fetch
 cd gsc-api
 ```
 
+แต่ถ้าใครที่ยังไม่มีหรือไม่ได้ติดตั้ง Git สามารถอ่านบทความนี้ก่อนได้ครับ
+- [ทำความรู้จัก Git](https://devhub.in.th/blog/git-github)
+
 2. สร้างและเปิดใช้งาน virtual environment:
 
 ```bash
